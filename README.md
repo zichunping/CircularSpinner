@@ -7,7 +7,12 @@ A Beautiful fullscreen Circular Spinner, very useful for determinate or indeterm
 
 # Installation
 
-CircularSpinner will be available through [CocoaPods](http://cocoapods.org) soon.
+CircularSpinner is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'CircularSpinner'
+```
 
 # Usage
 You can present the circular spinner from anywhere by calling the `show()` class method.
